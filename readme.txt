@@ -5,4 +5,4 @@ Git tracks changes of files.
 add test1
 add test2
 add git
-Creating a new branch is quick.
+Creating a new branch is quick AND simple.

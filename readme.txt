@@ -6,3 +6,4 @@ add test1
 add test2
 add git
 Creating a new branch is quick and simple.
+--no-ff
